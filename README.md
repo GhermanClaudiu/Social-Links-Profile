@@ -57,4 +57,4 @@ For future development, I plan to:
 ## Author
 
 - Frontend Mentor - [@Aishi-Jain](https://www.frontendmentor.io/profile/GhermanClaudiu)
-- LinkedIn - [Aishi Jain](https://www.linkedin.com/in/ghermanclaudiucristian)
+- LinkedIn - [Gherman Claudiu](https://www.linkedin.com/in/ghermanclaudiucristian)
