@@ -117,7 +117,7 @@ body {
 /*--------------Link--------*/
 .link {
   border-radius: 8px; /* unități fixe */
-  padding: 5px; /* unități fixe */
+  padding: 12px; /* unități fixe */
   width: 279px; /* unități fixe */
   align-content: center;
   display: flex;

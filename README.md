@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/social-links-profile-YfsamhdcYx)
+- Live Site URL: (https://ghermanclaudiu.github.io/Social-Links-Profile/)
 
 ## My process
 
